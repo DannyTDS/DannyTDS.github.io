@@ -1,0 +1,4 @@
+baseURL = 'https://dannytds.github.io/'
+languageCode = 'en-us'
+title = 'Ziang (Danny) Tong'
+theme = "barks"
