@@ -1,0 +1,40 @@
+baseURL = 'https://dannytds.github.io/'
+languageCode = 'en-us'
+copyright = "© 2023 by Danny Tong."
+disableKinds = "taxonomy"
+title = 'Ziang (Danny) Tong'
+theme = "barks"
+
+[menu]
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 1
+[[menu.main]]
+    name = "Experiences"
+    url  = "/experiences"
+    weight = 2
+[[menu.main]]
+    name = "Projects"
+    url  = "/projects"
+    weight = 3
+
+[params.meta]
+    favicon             = true
+
+[params.social]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:ztong2@nd.edu"
+        weight = 1
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/DannyTDS"
+        weight = 2
+    [params.social.linkedin]
+        name = "LinkedIn"
+        class = "fab fa-linkedin"
+        url = "https://www.linkedin.com/in/ziangtong/"
+        weight = 3
