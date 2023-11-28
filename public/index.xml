@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ziang (Danny) Tong</title>
+    <link>https://dannytds.github.io/</link>
+    <description>Recent content in Home on Ziang (Danny) Tong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 by Danny Tong.</copyright><atom:link href="https://dannytds.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dannytds.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dannytds.github.io/about/</guid>
+      <description>I&amp;rsquo;m currently in my senior year at the University of Notre Dame, on the track towards a B.S. in computer science with supplementary major in applied computational math and statistics (ACMS).
+In school, I&amp;rsquo;m part of the SaNDwich lab in human-computer interaction, directed by Dr. Toby Jia-jun Li and the Visualization lab in computer graphics and scientific visualization, directed by Dr. Chaoli Wang.
+In my spare time, I am a video game developer, landscape photographer, and EDM producer.</description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://dannytds.github.io/experiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dannytds.github.io/experiences/</guid>
+      <description>Research Generative Models for UX Design Building systems to provide inspirations for UI/UX designers by harnessing the power of generative machine learning models.
+Novel View Synthesis without Camera Position Prior Leveraging implicit neural representation (INR) and neural radiance fields (NeRF) to construct novel views without the need for accurate camera position prior.
+Social Collaboration in VR Investigated the nuanced way people engage in VR workspace, aiming to mitigate any sense of segregation experienced in the virtual environment.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://dannytds.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dannytds.github.io/projects/</guid>
+      <description>BMinor Compiler
+C, Flex, Bison, ARM Assembly
+Peer-to-peer Social Network
+Python, TCP/UDP Networking
+ViewINR Visualization
+JavaScript, React.js
+TinDev: a Fullstack Recruiter-Applicant Matchup Platform
+JavaScript, Python, Bootstrap, Django, MySQL
+Notre Dame Philosophy Library
+WordPress, MySQL
+Procedual Landmass Generation
+C#, Unity</description>
+    </item>
+    
+  </channel>
+</rss>
